@@ -1,2 +1,3 @@
 # about
-Our goals  
+
+This repo contains information about awesome-gocui  
