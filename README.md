@@ -11,3 +11,11 @@ That's why we created [awesome-gocui](https://github.com/awesome-gocui), we want
 
 ## Logos
 Sadly we don't have a logo yet, If you want to help us with that feel free to make an issue
+
+## Rules we try to follow
+These are a list of rules we (members) try to follow when working on projects from awesome-gocui.  
+All rules are spesific to one or more repos.  
+
+**gocui**  
+- New PRs must be seen by at least 2/3 from the all members
+- PRs created by members must have an issue containng the underlaying Bug / Feature
