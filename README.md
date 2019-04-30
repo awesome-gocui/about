@@ -9,9 +9,6 @@ New users will see gocui as a dead project while it's an amazing project with aw
 
 That's why we created [awesome-gocui](https://github.com/awesome-gocui), we want to make gocui an active git project again where we accept PRs and hopefully make some helper libraries.
 
-## Logos
-Sadly we don't have a logo yet, If you want to help us with that feel free to make an issue
-
 ## Rules we try to follow
 These are a list of rules we (members) try to follow when working on projects from awesome-gocui.  
 All rules are spesific to one or more repos.  
