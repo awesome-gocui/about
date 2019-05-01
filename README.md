@@ -1,6 +1,8 @@
-# about
-
-This repo contains information about the github organizations **awesome-gocui**  
+<p align="center">
+  <img src="/logo/logo-300.png" height="300" alt="Awesome GoCui Logo">
+  <h1 align="center">Awesome GoCui</h1>
+  <p align="center">This repo contains information about the github organizations **awesome-gocui**</p>
+</p>
 
 ## Why  
 Because the [original gocui repo](https://github.com/jroimartin/gocui) is unmaintained.  
