@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/logo/logo-300.png" height="300" alt="Awesome GoCui Logo">
+  <img src="/logo/logo-300px.png" height="300" alt="Awesome GoCui Logo">
   <h1 align="center">Awesome GoCui</h1>
   <p align="center">This repo contains information about the github organizations **awesome-gocui**</p>
 </p>
